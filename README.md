@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Naitik Kumar</h1>
 
-<!--
-**naitik2424/naitik2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+Developer+in+Progress;DSA+Learner;Future+Software+Engineer;Always+Learning+New+Things+🚀">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 B.Tech CSE student at **IILM University, Greater Noida**
+* 💻 Currently learning **Java, Python, SQL & Data Structures**
+* 📚 Practicing **DSA daily**
+* 🚀 Goal: Become a **Software Engineer**
+* ⚡ Fun fact: Debugging feels like solving puzzles 🧩
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naitik2424&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik2424&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Naitik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naitik2424\&theme=tokyo-night)](https://github.com/naitik2424)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Java Learning Repository**
+Projects and mini programs built while learning Java.
+
+🔹 **Python Programming Projects**
+Basic programs and practice problems.
+
+🔹 **DSA Practice Repository**
+Daily Data Structures & Algorithms practice.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:naitik242424@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+✔ Mastering **Java & DSA**
+✔ Building **GitHub projects**
+✔ Learning **System Design basics**
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
