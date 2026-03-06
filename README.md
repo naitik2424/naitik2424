@@ -36,20 +36,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-[![Naitik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naitik2424\&theme=tokyo-night)](https://github.com/naitik2424)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 🔹 **Java Learning Repository**
