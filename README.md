@@ -30,6 +30,10 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/naitik242424)
 
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2424&layout=compact&theme=tokyonight)
+
 ## 📊 GitHub Stats
 
 <p align="center">
