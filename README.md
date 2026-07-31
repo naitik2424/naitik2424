@@ -1,22 +1,22 @@
-<h1 align="center">Hey 👋 I'm Naitik Kumar</h1>
+<h1 align="center">Hey  I'm Naitik Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Java+Developer+in+Progress;DSA+Learner;Future+Software+Engineer;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Java+Developer;DSA+Learner;Software+Engineer;Always+Learning+New+Things+" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech CSE Student at **IILM University, Greater Noida**
-- 💻 Learning **Java, Python, SQL & Data Structures**
-- 📚 Solving **DSA Problems Daily**
-- 🚀 Aspiring **Software Engineer**
-- ⚡ Love solving coding challenges and debugging problems
+-  B.Tech CSE Student at **IILM University, Greater Noida**
+-  Learning **Java, Python, SQL & Data Structures**
+-  Solving **DSA Problems Daily**
+-  **Software Engineer**
+-  Love solving coding challenges and debugging problems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,html,css,git,github,vscode,mysql" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Coding Profiles
+##  Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Naitikkumar7089/">
@@ -34,7 +34,7 @@
 
 ---
 
-## 🏆 LeetCode Stats
+##  LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Naitikkumar7089?theme=dark&font=Baloo%202&ext=contest" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 💻 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2424&layout=compact&theme=tokyonight&hide_border=true" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik2424&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -60,7 +60,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🔹 Java Learning Repository
 Projects and mini programs built while learning Java.
@@ -73,7 +73,7 @@ Daily Data Structures & Algorithms solutions.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
@@ -89,7 +89,7 @@ Daily Data Structures & Algorithms solutions.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ✔ Mastering Java & DSA
 
