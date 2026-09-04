@@ -91,11 +91,20 @@ AWS & Cloud             ████████████░░░░░░�
 Real-World Projects     ███████████░░░░░░░░░  55%
 ```
 
+---
+
+## 🔧 If a Widget Breaks Again
+
+GitHub stat widgets (streak stats, top-langs, etc.) are run on free community servers, so they occasionally go down when overloaded. If that happens, deploy your own free copy on Vercel from the widget's GitHub repo (fork it → import into Vercel → done in ~5 min) instead of relying on the shared public one.
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://leetcode.com/u/Naitikkumar7089/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/naitik2424"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:naitik242424@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
