@@ -59,17 +59,15 @@
 
 ## 📈 GitHub Stats
 
+> ⚠️ Note: The official `github-readme-stats.vercel.app` demo server is currently paused/down due to high traffic (a known, widespread issue as of 2026 — not specific to this profile). The cards below use a community-run alternative that mirrors the same API. For a permanent fix, see the "Fixing broken stats" section further down.
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik2424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naitik's GitHub stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=naitik2424&theme=tokyonight&hide_border=true" alt="Naitik's GitHub streak"/>
+  <img height="180em" src="https://githubreadmestatsfast.vercel.app/api?username=naitik2424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naitik's GitHub stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=naitik2424&theme=tokyonight&hide_border=true" alt="Naitik's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2424&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik2424&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=naitik2424&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -103,6 +101,20 @@ SQL & MySQL             ██████████████░░░░�
 AWS & Cloud             ████████████░░░░░░░░  60%
 Real-World Projects     ███████████░░░░░░░░░  55%
 ```
+
+---
+
+## 🔧 Fixing Broken Stats Permanently (Optional)
+
+The public demo servers for these stat widgets frequently hit rate limits or get paused. The most reliable fix is deploying your own free copy on Vercel:
+
+1. Fork **[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)** to your account
+2. Go to **[vercel.com](https://vercel.com)**, sign in with GitHub, click **New Project**, import your fork
+3. Add environment variable `PAT_1` = a GitHub Personal Access Token (no expiry, `repo` scope) — this avoids GitHub API rate limits
+4. Deploy — Vercel gives you a URL like `your-project.vercel.app`
+5. Replace `github-readme-stats.vercel.app` in this README with your new URL
+
+Do the same for streak stats using **[github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)**.
 
 ---
 
