@@ -58,9 +58,10 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Naitikkumar7089?theme=dark&font=Baloo%202&ext=contest" />
+  <a href="https://leetcode.com/u/Naitikkumar7089/">
+    <img src="https://leetcard.jacoblin.cool/Naitikkumar7089?theme=dark&font=Baloo%202&ext=contest" />
+  </a>
 </p>
-
 ---
 
 ## 📈 GitHub Stats
