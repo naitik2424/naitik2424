@@ -1,11 +1,16 @@
 <h1 align="center">Hey 👋, I'm Naitik Kumar</h1>
-
 <h3 align="center">
   B.Tech CSE Student | Java Developer | DSA Enthusiast | Aspiring Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=750&lines=Java+Developer;DSA+Problem+Solver;Python+Learner;Building+Real-World+Projects;Learning+Cloud+%26+AWS;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer;DSA+Problem+Solver;Python+Learner;Building+Real-World+Projects;Learning+Cloud+%26+AWS;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Naitikkumar7089/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/naitik2424"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=naitik2424&style=for-the-badge&color=00F7FF" alt="Profile views" />
 </p>
 
 ---
@@ -26,31 +31,18 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,html,css" />
 </p>
 
 ### 🗄️ Database & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ### ☁️ Cloud & DevOps
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-</p>
-
----
-
-## 🧠 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/Naitikkumar7089/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 
 ---
@@ -59,24 +51,29 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Naitikkumar7089/">
-    <img src="https://leetcard.jacoblin.cool/Naitikkumar7089?theme=dark&font=Baloo%202&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/Naitikkumar7089?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode stats"/>
   </a>
 </p>
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik2424&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=naitik2424&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik2424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naitik's GitHub stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=naitik2424&theme=tokyonight&hide_border=true" alt="Naitik's GitHub streak"/>
 </p>
 
----
-
-## 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2424&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2424&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik2424&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naitik2424&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -105,3 +102,15 @@ Python                  ███████████████░░░�
 SQL & MySQL             ██████████████░░░░░░  70%
 AWS & Cloud             ████████████░░░░░░░░  60%
 Real-World Projects     ███████████░░░░░░░░░  55%
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://leetcode.com/u/Naitikkumar7089/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/naitik2424"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
